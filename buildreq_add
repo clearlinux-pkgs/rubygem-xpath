@@ -1,0 +1,14 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-diff-lcs
+rubygem-disposable
+rubygem-mini_portile
+rubygem-nokogiri
+rubygem-rake
+rubygem-rdoc
+rubygem-rspec
+rubygem-rspec-core
+rubygem-rspec-expectations
+rubygem-rspec-support
+rubygem-yard
